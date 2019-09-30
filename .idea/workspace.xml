@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="048f69df-198a-44f2-9ddc-14f26c33d40d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/wda-scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wda-scripts.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/家国梦.py" beforeDir="false" afterPath="$PROJECT_DIR$/家国梦.py" afterDir="false" />
     </list>
@@ -90,7 +89,8 @@
       <updated>1569684955025</updated>
       <workItem from="1569684958466" duration="700000" />
       <workItem from="1569686055513" duration="4500000" />
-      <workItem from="1569729615927" duration="4602000" />
+      <workItem from="1569729615927" duration="6437000" />
+      <workItem from="1569819649339" duration="2785000" />
     </task>
     <servers />
   </component>
@@ -102,7 +102,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -120,7 +122,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wda_scripts$.coverage" NAME="家国梦 Coverage Results" MODIFIED="1569741764521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wda_scripts$.coverage" NAME="家国梦 Coverage Results" MODIFIED="1569821656662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wda_scripts$king.coverage" NAME="king Coverage Results" MODIFIED="1569691970392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
