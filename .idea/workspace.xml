@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="048f69df-198a-44f2-9ddc-14f26c33d40d" name="Default Changelist" comment="">
+    <list default="true" id="7b4481d7-eaf8-4e78-8020-636af970eef2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dream_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/king.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wda-scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wda-scripts.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/家国梦.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dream-run.py" beforeDir="false" afterPath="$PROJECT_DIR$/dream-run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dream.py" beforeDir="false" afterPath="$PROJECT_DIR$/dream.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +28,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1RUlZZmcRlQnZjhPOrvaHHoKrsY" />
+  <component name="ProjectId" id="1RkMOD33tNgnxwv4kW1Gc1z20kn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -31,8 +43,6 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -48,8 +58,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dream-run">
-    <configuration name="家国梦" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.dream-image">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="wda-scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,21 +67,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/家国梦.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="家国梦的副本" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dream-image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wda-scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +94,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/家国梦的副本.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dream_image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,8 +128,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.dream-run" />
-        <item itemvalue="Python.家国梦" />
-        <item itemvalue="Python.家国梦的副本" />
+        <item itemvalue="Python.dream-image" />
       </list>
     </recent_temporary>
   </component>
@@ -128,16 +137,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="048f69df-198a-44f2-9ddc-14f26c33d40d" name="Default Changelist" comment="" />
-      <created>1569684955025</created>
+      <changelist id="7b4481d7-eaf8-4e78-8020-636af970eef2" name="Default Changelist" comment="" />
+      <created>1570206605952</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569684955025</updated>
-      <workItem from="1569684958466" duration="700000" />
-      <workItem from="1569686055513" duration="4500000" />
-      <workItem from="1569729615927" duration="6437000" />
-      <workItem from="1569819649339" duration="23928000" />
-      <workItem from="1569988910725" duration="11245000" />
+      <updated>1570206605952</updated>
+      <workItem from="1570206608122" duration="298000" />
+      <workItem from="1570207332623" duration="8833000" />
+      <workItem from="1570293281836" duration="190000" />
+      <workItem from="1570293560102" duration="19402000" />
     </task>
     <servers />
   </component>
@@ -161,26 +169,20 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/king.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py</url>
-          <line>260</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/dream.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/dream-run.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="39" />
+          <line>10</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wda_scripts$.coverage" NAME="家国梦 Coverage Results" MODIFIED="1570015515386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wda_scripts$dream_run.coverage" NAME="dream-run Coverage Results" MODIFIED="1570018803646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wda_scripts$king.coverage" NAME="king Coverage Results" MODIFIED="1569691970392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wda_scripts$dream_run.coverage" NAME="dream-run Coverage Results" MODIFIED="1570500322628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wda_scripts$dream_image.coverage" NAME="dream-image Coverage Results" MODIFIED="1570386002936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

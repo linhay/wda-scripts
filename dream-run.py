@@ -4,17 +4,27 @@ import wda
 import dream
 from time import sleep
 
+
 if __name__ == '__main__':
 
-    c = wda.Client(url='http://172.20.10.8:8100')
-    s = c.session()
+    dream.c = wda.Client()
+    dream.s = dream.c.session()
 
     while (True):
         try:
-            dream.autoMoney(section=s, indexs=[0, 1, 2])
-            sleep(2)
-            dream.autoUpdateBuilds(section=s, indexs=[3,4,5])
-            sleep(2)
-            dream.autoGetGoods(section=s, indexs=[0, 1, 2])
+            # dream.autoMoney(section=s, indexs=[2])
+            # sleep(2)
+            # dream.autoUpdateBuilds(section=s, indexs=[3,4,5])
+            # sleep(2)
+            dream.c.screenshot('./dream.png')
+            # dream.exchange_build()
+            if (dream.is_has_train()):
+                print('--有火车--')
+                dream.newAutoGetGoods(section=dream.s, indexs=[0, 1])
+                # dream.newAutoGetGoods(section=dream.s, indexs=[0])
+            else:
+                print('--无火车--')
+                sleep(0.5)
+
         except:
             continue
